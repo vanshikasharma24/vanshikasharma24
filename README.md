@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: IOT projects
-- 🌱 I’m currently learning: JAVA / Full stack web developer
+- 🔭 I’m currently working on: Competitive Programming
+- 🌱 I’m currently learning: PYTHON / Full stack web developer
 - 👯 I’m looking to collaborate: on Web Development projects
 - 🤔 I’m looking for help with: React projects
 - 💬 Ask me about: IOT automation / Web development
